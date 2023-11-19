@@ -15,7 +15,7 @@ _Collaborate and work together on GitHub._
 
 <!--
   <<< Author notes: Step 5 >>>
-  Start this step by acknowledging the previous step.yeedzdhdr
+  Start this step by acknowledging the previouserere
   Define terms and link to docs.github.com.
 -->
 
